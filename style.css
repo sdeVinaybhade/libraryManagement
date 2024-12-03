@@ -13,6 +13,7 @@
   
   footer a {
     text-decoration: none;
+    display: flex;
   }
   
   footer a:hover {
