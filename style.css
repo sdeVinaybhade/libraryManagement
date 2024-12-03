@@ -1,0 +1,21 @@
+/* Hero Section */
+.hero {
+    background: url('https://via.placeholder.com/1920x600') center/cover no-repeat;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Features Section */
+  .bi {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
